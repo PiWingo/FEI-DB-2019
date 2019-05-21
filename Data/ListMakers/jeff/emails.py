@@ -1,0 +1,1 @@
+emails = ["@yahoo.com","@gmail.com","@hotmail.com","@aol.com"]

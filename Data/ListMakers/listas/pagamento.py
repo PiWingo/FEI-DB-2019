@@ -1,0 +1,1 @@
+pagamento = ["boleto", "credito", "debito", "dinheiro"]

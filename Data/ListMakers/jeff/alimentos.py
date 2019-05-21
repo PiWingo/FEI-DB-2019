@@ -1,0 +1,1 @@
+alimentos = ["macarrao","arroz","bacon","ovo","cabelo de pipoca","suco"]
